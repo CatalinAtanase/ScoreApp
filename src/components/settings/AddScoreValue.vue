@@ -8,6 +8,7 @@
       <q-form @submit.prevent="onSubmit" @reset="onReset" class="q-gutter-md">
         <q-input
           outlined
+          type="number"
           v-model="newValue.value"
           label="Value"
           lazy-rules
