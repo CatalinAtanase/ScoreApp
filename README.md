@@ -1,6 +1,6 @@
 # Awesome Score (awesome-score)
 
-Simple score app using typescript, vue3
+Simple score app using quasar framework with vue and vuex
 
 ## Install the dependencies
 ```bash
