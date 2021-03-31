@@ -1,4 +1,5 @@
 # Awesome Score (awesome-score)
+https://awesomescore.netlify.app/#/
 
 Simple score app using quasar framework with vue and vuex
 
